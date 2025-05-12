@@ -21,9 +21,9 @@
   "homepage": "https://github.com/BogdanLyamzin/zenquotes-proxy#readme",
   "description": "",
   "dependencies": {
-    "axios": "^1.9.0",
     "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "quotesy": "^1.0.10"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
